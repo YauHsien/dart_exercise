@@ -1,0 +1,4 @@
+/Users/yauhsien/work/yauhsien/dart_exercise/lib/c_struct/CMakeFiles/twist.dir
+/Users/yauhsien/work/yauhsien/dart_exercise/lib/c_struct/CMakeFiles/twist_test.dir
+/Users/yauhsien/work/yauhsien/dart_exercise/lib/c_struct/CMakeFiles/edit_cache.dir
+/Users/yauhsien/work/yauhsien/dart_exercise/lib/c_struct/CMakeFiles/rebuild_cache.dir
